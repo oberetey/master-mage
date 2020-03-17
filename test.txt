@@ -1,2 +1,2 @@
 The files here will be a log of the growth of my skills
-the subjecT or my work will be: python, r, sql, gis (more may be added later.
+The subject or my work will be: python, r, sql, gis (more may be added later.
