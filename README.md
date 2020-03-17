@@ -1,2 +1,2 @@
 # master-mage
-# first repostirty (lol that was defeintely spelled wrong asf)
+# first repo (the start of something great)
